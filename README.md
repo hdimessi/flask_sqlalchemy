@@ -1,0 +1,1 @@
+A simple CRUD REST Api built using Flask and SQLAlchemy
